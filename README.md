@@ -22,9 +22,7 @@ The theoretical conclusion that as private information sets collapse into shared
 ### 3. Regulatory Nash Equilibria
 A game-theoretic analysis of global AI governance, predicting a "Race to the Permissive" among sovereign states competing for frontier technology rents, leading to systemic recursive risks.
 
-***
-
-## 4. The Differentiation Paradox
+### 4. The Differentiation Paradox
 A market-side phenomenon where firms utilize branding and proprietary nomenclature to manufacture perceived differentiation in an environment where the underlying technology has become a commoditized utility.
 
 ***
