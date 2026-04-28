@@ -24,6 +24,11 @@ A game-theoretic analysis of global AI governance, predicting a "Race to the Per
 
 ***
 
+## 4. The Differentiation Paradox
+A market-side phenomenon where firms utilize branding and proprietary nomenclature to manufacture perceived differentiation in an environment where the underlying technology has become a commoditized utility.
+
+***
+
 ## Abstract
 
 This paper develops a theoretical model to determine whether capital markets reach Eugene Fama's (1970) Strong Form efficiency in an environment of ubiquitous artificial intelligence. We argue that the integration of AI into corporate and financial decision-making facilitates a transition toward a future state characterized by computational symmetry and the terminal collapse of private information sets.
