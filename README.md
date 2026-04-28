@@ -4,7 +4,7 @@
 
 ## Authors 
 
--  **Suresh Paul**, Corresponding author. Visiting Professor of Finance and Analytics, Carmel-Boyer School of Business, Baldwin Wallace University, Berea, OH, USA. Email: spaul@bw.edu.
+-  **Suresh Lazarus Paul**, Corresponding author. Visiting Professor of Finance and Analytics, Carmel-Boyer School of Business, Baldwin Wallace University, Berea, OH, USA. Email: spaul@bw.edu.
 -  **Herman Sahni**, Associate Professor of Finance and Analytics, Coordinator of Economics, Carmel-Boyer School of Business, Baldwin Wallace University, Berea, OH, USA.
 
 ***
