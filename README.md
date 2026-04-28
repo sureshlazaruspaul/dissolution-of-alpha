@@ -36,7 +36,7 @@ We analytically characterize a market equilibrium where the adoption of high-cap
 
 *Suggested Citation:*
 
-Paul, Suresh and Sahni, Herman, The Convergence of Intelligence and the Dissolution of Alpha: AI Ubiquity as the Realization of Strong Form Efficiency (April 12, 2026). Available at SSRN: https://ssrn.com/abstract=6562479.
+Paul, Suresh L. and Sahni, Herman, The Convergence of Intelligence and the Dissolution of Alpha: AI Ubiquity as the Realization of Strong Form Efficiency (April 12, 2026). Available at SSRN: https://ssrn.com/abstract=6562479.
 
 ***
 
